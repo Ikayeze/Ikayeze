@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ikayeze
-- 👀 I’m interested in Pytgon and data engineering 
+- 👀 I’m interested in Python and data engineering 
 - 🌱 I’m currently learning Data Engineering 
 - 💞️ I’m looking to collaborate on Any educative/practice projects
 - 📫 How to reach me theikayeze@gmail.com
