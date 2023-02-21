@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ikayeze
 - 👀 I’m interested in Python and data engineering 
-- 🌱 I’m currently learning Data Engineering 
+- 🌱 Data Engineer
 - 💞️ I’m looking to collaborate on Any educative/practice projects
 - 📫 How to reach me theikayeze@gmail.com
 
